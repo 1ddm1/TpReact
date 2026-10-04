@@ -1,17 +1,45 @@
-# React + Vite
+# 🍗 Korean Fried Chicken - E-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a la plataforma de comercio electrónico para nuestra tienda de **pollo frito estilo coreano**! Esta aplicación web permite a los usuarios explorar nuestro menú crujiente, armar su carrito de compras y realizar pedidos de forma rápida y sencilla.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+El proyecto fue desarrollado utilizando el ecosistema moderno de JavaScript para garantizar un rendimiento óptimo y una interfaz responsiva:
 
-## React Compiler
+* **React** – Librería de JavaScript para construir la interfaz de usuario basada en componentes.
+* **Vite** – Herramienta de empaquetado ultra rápida para el desarrollo y compilación del proyecto.
+* **Bootstrap** – Framework de CSS para un diseño ágil, limpio y adaptado a dispositivos móviles.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Instalación y Configuración Local
 
-## Expanding the ESLint configuration
+Sigue estos pasos para clonar el proyecto y ejecutarlo en tu entorno local:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# TpReact
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/1ddm1/TpReact.git
+   ```
+
+2. **Accede a la carpeta del proyecto:**
+   ```bash
+   cd tpReact.git
+   ```
+
+3. **Instala las dependencias necesarias:**
+   ```bash
+   npm install
+   ```
+
+4. **Inicia el servidor de desarrollo:**
+   ```bash
+   npm run dev
+   ```
+
+5. **Abre la aplicación:**
+   Visita `http://localhost:5173` en tu navegador para ver la tienda en funcionamiento.
+
+## ✨ Características Principales
+
+* **Menú Interactivo:** Catálogo visual con las diferentes variedades de pollo frito (Yangnyeom, Galbi, Nevado, etc.).
+* **Carrito de Compras:** Añade, remueve y modifica las cantidades de tus piezas de pollo en tiempo real.
+* **Diseño Responsivo:** Optimizado gracias a Bootstrap para realizar pedidos desde celulares, tablets o computadoras.
+git 
